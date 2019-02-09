@@ -1,4 +1,4 @@
-package HDFS;
+package hdfs;
 
 import java.io.InputStream;
 import java.net.URL;
